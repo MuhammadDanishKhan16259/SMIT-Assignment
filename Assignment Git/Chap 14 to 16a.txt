@@ -1,0 +1,161 @@
+  assignment # 14-16
+
+// var city = prompt('enter city')
+
+// var gender = prompt('enter gender')
+
+// if (city == 'karachi') {
+//     document.write('wellcome sir')
+//     document.write('<br>')
+//     document.write('Welcome to the city of lights')
+    
+// }if( gender =='female') 
+// {
+//     document.write('wellcome madam')
+//        document.write('<br>')
+//     document.write('Welcome to the city of lights')
+// }
+
+//                        signal color
+
+// var color = prompt('enter color')
+
+// if (color == 'red') {
+//     document.write('must stop')
+// }if (color == 'yellow') {
+//     document.write('ready to move')
+// }
+// if (color == 'green') {
+//     document.write('move now')
+// }
+
+//                  fuel
+// var fuel =+ prompt('enter fuel')
+
+// if (fuel <= '1') {
+//     document.write('refuel please')
+// }if (color >= '2') {
+//     document.write('no need to fuel')
+// }
+
+
+//  var a = 4;
+//   if (++a === 5){
+//        alert("given condition for variable a is true"); }
+       
+       
+//  var b = 82;
+//   if (b++ === 83){ 
+//       alert("given condition for variable b is true"); }
+
+// var c = 12;
+//  if (c++ === 13){
+//       alert("condition 1 is true");
+    //    } 
+    //    if (c === 13){ alert("condition 2 is true"); } 
+    //    if (++c < 14){ alert("condition 3 is true"); }
+    //    if(c === 14){ alert("condition 4 is true"); }
+       
+//      var materialCost = 20000;
+//       var laborCost = 2000;
+//        var totalCost = materialCost + laborCost;
+//         if (totalCost === laborCost + materialCost){
+//              alert("The cost equals"); }
+     
+//        if (true){ alert("True"); } if (false){ alert("False"); }
+       
+//        if("car" < "cat"){ alert("car is smaller than cat"); }
+
+
+//                                         grades 
+
+
+// var marks = 300
+// var bio =+ prompt('enter biology marks')
+// var phy =+ prompt('enter physics marks')
+// var chem =+ prompt('enter chemistry marks')
+
+// var marksObtained = bio + phy + chem
+// var per = marksObtained / 300 * 100
+// var remarks 
+// document.write('your total marks are :' + marksObtained + '<br>')
+// document.write('percentage = ' + per + '%'+ '<br>' )
+
+
+// if (per >= 20 && per <= 69) {
+//    document.write('fail') 
+//    document.write( remarks = ' you need improvment ' ) 
+// }
+// else if(per >= 70 && per <= 79){
+//     document.write('A')
+//    document.write( remarks = ' good job ') 
+    
+// }
+// else if(per >= 80 && per <= 89){
+//    document.write('A-one') 
+//    document.write( remarks = ' outstanding performance ') 
+   
+// }
+
+//                       guess game
+
+// var secret = 7
+
+// var num = prompt ('guess the secret number from 1-10')
+
+
+// if (num = 1 || 2 || 3 || 4 || 5 || 9 || 10 ) {
+//    document.write('wrong') 
+// }
+// else if(num = 6 || 8) {
+//    document.write('close to the correct answers') 
+// }
+// else if (Num = 7){
+//     document.write('BINGO!!')
+// }
+
+//                         divisable by3
+
+// var a = prompt('enter a number')
+// var num = a % 3 
+
+// if (num == 0) {
+//     document.write('it is divisible by 3')
+// }else{
+//     document.write('it is not divisible by 3')
+    
+// }
+
+//                        even / odd
+
+//  var a = prompt('enter a number')
+// var num = a % 2 
+
+// if (num == 0) {
+//     document.write('even')
+// }else{
+//     document.write('odd')
+    
+// }
+
+//                            calculator
+// var num1  =+ prompt(' enter first number')
+// var op = prompt('enter + - * / ')
+// var num2  =+ prompt(' enter second number')
+
+
+// if (op == '+') {
+//     document.write(num1 + num2)
+// }
+// else if (op == '-') {
+//         document.write(num1 - num2)
+// }
+// else if (op == '/') {
+//         document.write(num1 / num2)
+// }
+// else if (op == '*') {
+//         document.write(num1 * num2)
+// }
+
+
+//                    
